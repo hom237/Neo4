@@ -1,5 +1,5 @@
 # 누구보다 빠르게 배우는 Springboot + Android(Compose) RestAPI 게시판 만들기
-![강의 썸네일](https://img.notionusercontent.com/s3/prod-files-secure%2Fc42fbf2b-32fe-4471-8aab-180f51ec938e%2Fa027b4dc-84aa-434d-8c0b-ff0bfc32a9b0%2Fandd.png/size/w=2000?exp=1755131846&sig=Gj1-0uxlZoFikdJwvVI9-4_xFdf_zayDh7qK-XSxcB0&id=23935c9c-2899-80be-ac95-d80610928e82&table=block)
+<img width="960" height="625" alt="image 20" src="https://github.com/user-attachments/assets/cc25add7-4b9d-4334-97d7-080ef8a22336" />
 
 # 소개
 Spring Boot로 CRUD REST API 서버를 만들고, Android Jetpack Compose + Retrofit2로 연동해 나만의 게시판 앱을 완성합니다. 서버–클라이언트를 한 번에 익히며 실무 흐름(설계 → 구현 → 문서화 → 연동)을 빠르게 체득할 수 있도록 구성했습니다.
